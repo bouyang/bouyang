@@ -18,22 +18,14 @@ I created **Splinter**, an open-source pipeline designed to streamline the proce
 
 Here are some of the technologies and tools I work with:
 
-#### **Languages**:
-- JavaScript, TypeScript, Python, Ruby
+| **Category**           | **Technologies**                                                                                     |
+|------------------------|------------------------------------------------------------------------------------------------------|
+| **Languages**          | JavaScript, TypeScript, Python, Ruby                                                                  |
+| **Frameworks**         | Express, React, Sinatra, Handlebars                                                                  |
+| **Databases**          | PostgreSQL, MongoDB, AWS DynamoDB, Pinecone                                                          |
+| **Cloud & DevOps**     | **AWS** (CDK, Lambda, S3, EC2, ECS, Batch, API Gateway), DigitalOcean, Docker, Nginx                |
+| **Other Development Tools** | Node.js, Jest, Postman, Git/GitHub, Trello                                                      |
 
-#### **Frameworks**:
-- Express, React, Sinatra, Handlebars
-
-#### **Databases**:
-- PostgreSQL, MongoDB, AWS DynamoDB, Pinecone
-
-#### **Cloud & DevOps**:
-- **AWS** (CDK, Lambda, S3, EC2, ECS, Batch, API Gateway), DigitalOcean, Docker, Nginx
-
-#### **Other Development Tools**:
-- Node.js, Jest, Postman, Git/GitHub, Trello
-
----
 
 ## 🔗 Links
 
