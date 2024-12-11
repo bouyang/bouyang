@@ -1,6 +1,6 @@
 # Hello, I'm Brian Ouyang! 👋
 
-I'm a software engineer with strong analytical skills, working in teams, and managing projects. I am passionate about expanding my technical expertise while tackling complex challenges through critical thinking and continuous learning!
+I’m a software engineer with strong analytical skills and extensive experience working in teams. I excel at problem-solving and am passionate about expanding my technical expertise while tackling complex challenges through critical thinking and continuous learning.
 
 ## 🚀 Latest Project
 
