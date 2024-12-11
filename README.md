@@ -29,7 +29,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🔗 Links
 
-- [My Website](https://brianouyang.com/)
+- [Website](https://brianouyang.com/)
 - [LinkedIn](https://www.linkedin.com/in/ouyangbrian/)
 
 ## 💬 Let's Connect!
